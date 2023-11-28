@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj3343&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj3343" /> </p>
 
 - 🌱 I’m currently learning **Angular framework**
